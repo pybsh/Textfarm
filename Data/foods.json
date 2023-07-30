@@ -1,0 +1,18 @@
+{
+    "mushroom_stew": {
+        "buyPrice": 50,
+        "energy": 40
+    },
+    "bread": {
+        "buyPrice": 30,
+        "energy": 20
+    },
+    "corn_soup": {
+        "buyPrice": 40,
+        "energy": 30
+    },
+    "baked_potato": {
+        "buyPrice": 20,
+        "energy": 10
+    }
+}

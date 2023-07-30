@@ -1,0 +1,26 @@
+{
+    "carrot": {
+        "buyPrice": 30,
+        "sellPrice": 60,
+        "growPeriod": 4
+    },
+    "tomato": {
+        "buyPrice": 20,
+        "sellPrice": 40,
+        "growPeriod": 3
+    },
+    "corn": {
+        "buyPrice": 40,
+        "sellPrice": 70,
+        "growPeriod": 5
+    },
+    "potato": {
+        "buyPrice": 50,
+        "sellPrice": 80,
+        "growPeriod": 7
+    },
+    "pumpkin": {
+        "sellPrice": 100,
+        "growPeriod": 3
+    }
+}
