@@ -2,7 +2,7 @@
 
 선택-분기형 농사 시뮬레이션 텍스트 게임
 
-<p align="center"><a href="https://github.com/pybsh/Textfarm/blob/main/README.md">English</a> · <a href="https://github.com/pybsh/Textfarm/blob/main/README.ko_KR.md">한국어</a></p>
+<p align="center"><a href="https://github.com/pybsh/Textfarm/blob/master/README.md">English</a> · <a href="https://github.com/pybsh/Textfarm/blob/master/README.ko_KR.md">한국어</a></p>
 
 ## About Assets
 `./Assets/sound/` 아래 모든 리소스는 음소거되어있습니다.
