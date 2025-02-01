@@ -2,7 +2,7 @@
 
 Select-Quarter Farming Simulation Text Game.
 
-<p align="center"><a href="https://github.com/pybsh/Textfarm/blob/main/README.md">English</a> · <a href="https://github.com/pybsh/Textfarm/blob/main/README.ko_KR.md">한국어</a></p>
+<p align="center"><a href="https://github.com/pybsh/Textfarm/blob/master/README.md">English</a> · <a href="https://github.com/pybsh/Textfarm/blob/master/README.ko_KR.md">한국어</a></p>
 
 ## About Assets
 The sound resources under `./Assets/sound/` are all muted.
